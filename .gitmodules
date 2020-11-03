@@ -38,6 +38,7 @@
 	path = ndtv
 	url = https://github.com/statnet/ndtv
 	shallow = true
+	subdir = ndtv
 [submodule "rle"]
 	path = rle
 	url = https://github.com/statnet/rle
