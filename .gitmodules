@@ -2,56 +2,70 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
+	branch = HEAD
 [submodule "EpiModel"]
 	path = EpiModel
 	url = https://github.com/statnet/epimodel
 	shallow = true
+	branch = HEAD
 [submodule "ergm"]
 	path = ergm
 	url = https://github.com/statnet/ergm
 	shallow = true
+	branch = HEAD
 [submodule "ergm.count"]
 	path = ergm.count
 	url = https://github.com/statnet/ergm.count
 	shallow = true
+	branch = HEAD
 [submodule "ergm.ego"]
 	path = ergm.ego
 	url = https://github.com/statnet/ergm.ego
 	shallow = true
+	branch = HEAD
 [submodule "ergm.rank"]
 	path = ergm.rank
 	url = https://github.com/statnet/ergm.rank
 	shallow = true
+	branch = HEAD
 [submodule "ergm.userterms"]
 	path = ergm.userterms
 	url = https://github.com/statnet/ergm.userterms
 	shallow = true
+	branch = HEAD
 [submodule "latentnet"]
 	path = latentnet
 	url = https://github.com/statnet/latentnet
 	shallow = true
+	branch = HEAD
 [submodule "lolog"]
 	path = lolog
 	url = https://github.com/statnet/lolog
 	shallow = true
+	branch = HEAD
 [submodule "ndtv"]
 	path = ndtv
 	url = https://github.com/statnet/ndtv
 	shallow = true
+	branch = HEAD
 	subdir = ndtv
 [submodule "rle"]
 	path = rle
 	url = https://github.com/statnet/rle
 	shallow = true
+	branch = HEAD
 [submodule "statnet"]
 	path = statnet
 	url = https://github.com/statnet/statnet
 	shallow = true
+	branch = HEAD
 [submodule "statnet.common"]
 	path = statnet.common
 	url = https://github.com/statnet/statnet.common
 	shallow = true
+	branch = HEAD
 [submodule "tergm"]
 	path = tergm
 	url = https://github.com/statnet/tergm
 	shallow = true
+	branch = HEAD
