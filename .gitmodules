@@ -15,10 +15,6 @@
 	path = ergm.count
 	url = https://github.com/statnet/ergm.count
 	shallow = true
-[submodule "ergm.ego"]
-	path = ergm.ego
-	url = https://github.com/statnet/ergm.ego
-	shallow = true
 [submodule "ergm.rank"]
 	path = ergm.rank
 	url = https://github.com/statnet/ergm.rank
