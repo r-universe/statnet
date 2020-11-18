@@ -61,3 +61,8 @@
 	url = https://github.com/statnet/network
 	shallow = true
 	branch = master
+[submodule "networkDynamic"]
+	path = networkDynamic
+	url = https://github.com/statnet/networkDynamic
+	shallow = true
+	branch = master
