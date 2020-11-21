@@ -28,6 +28,13 @@
     "from": "ergm"
   },
   {
+    "package": "rle",
+    "url": "https://github.com/statnet/rle",
+    "via": ["statnet.common"],
+    "branch": "master",
+    "from": "statnet.common"
+  },
+  {
     "package": "statnet.common",
     "url": "https://github.com/statnet/statnet.common",
     "via": ["ergm"],
