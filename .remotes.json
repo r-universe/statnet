@@ -1,0 +1,43 @@
+[
+  {
+    "package": "network",
+    "url": "https://github.com/statnet/network",
+    "via": ["ergm"],
+    "branch": "master",
+    "from": "ergm"
+  },
+  {
+    "package": "rle",
+    "url": "https://github.com/statnet/rle",
+    "via": ["ergm", "statnet.common"],
+    "branch": "master",
+    "from": "ergm"
+  },
+  {
+    "package": "rle",
+    "url": "https://github.com/statnet/rle",
+    "via": ["ergm"],
+    "branch": "master",
+    "from": "ergm"
+  },
+  {
+    "package": "rle",
+    "url": "https://github.com/statnet/rle",
+    "via": ["ergm", "network", "statnet.common"],
+    "branch": "master",
+    "from": "ergm"
+  },
+  {
+    "package": "statnet.common",
+    "url": "https://github.com/statnet/statnet.common",
+    "via": ["ergm"],
+    "branch": "master",
+    "from": "ergm"
+  },
+  {
+    "package": "statnet.common",
+    "url": "https://github.com/statnet/statnet.common",
+    "via": ["ergm", "network"],
+    "from": "ergm"
+  }
+]
