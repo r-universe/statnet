@@ -14,9 +14,37 @@
     "from": "tergm"
   },
   {
+    "package": "ergm.count",
+    "url": "https://github.com/statnet/ergm.count",
+    "via": ["ergm"],
+    "branch": "master",
+    "from": "ergm"
+  },
+  {
     "package": "network",
     "url": "https://github.com/statnet/network",
     "via": ["ergm"],
+    "branch": "master",
+    "from": "ergm"
+  },
+  {
+    "package": "network",
+    "url": "https://github.com/statnet/network",
+    "via": ["ergm", "tergm"],
+    "branch": "master",
+    "from": "ergm"
+  },
+  {
+    "package": "network",
+    "url": "https://github.com/statnet/network",
+    "via": ["ergm", "tergm", "networkDynamic"],
+    "branch": "master",
+    "from": "ergm"
+  },
+  {
+    "package": "network",
+    "url": "https://github.com/statnet/network",
+    "via": ["ergm", "ergm.count"],
     "branch": "master",
     "from": "ergm"
   },
@@ -58,6 +86,13 @@
   {
     "package": "networkDynamic",
     "url": "https://github.com/statnet/networkDynamic",
+    "via": ["ergm", "tergm"],
+    "branch": "master",
+    "from": "ergm"
+  },
+  {
+    "package": "networkDynamic",
+    "url": "https://github.com/statnet/networkDynamic",
     "via": ["tergm"],
     "branch": "master",
     "from": "tergm"
@@ -80,6 +115,41 @@
     "package": "rle",
     "url": "https://github.com/statnet/rle",
     "via": ["ergm", "network", "statnet.common"],
+    "branch": "master",
+    "from": "ergm"
+  },
+  {
+    "package": "rle",
+    "url": "https://github.com/statnet/rle",
+    "via": ["ergm", "tergm", "statnet.common"],
+    "branch": "master",
+    "from": "ergm"
+  },
+  {
+    "package": "rle",
+    "url": "https://github.com/statnet/rle",
+    "via": ["ergm", "tergm", "network", "statnet.common"],
+    "branch": "master",
+    "from": "ergm"
+  },
+  {
+    "package": "rle",
+    "url": "https://github.com/statnet/rle",
+    "via": ["ergm", "tergm", "networkDynamic", "network", "statnet.common"],
+    "branch": "master",
+    "from": "ergm"
+  },
+  {
+    "package": "rle",
+    "url": "https://github.com/statnet/rle",
+    "via": ["ergm", "ergm.count", "network", "statnet.common"],
+    "branch": "master",
+    "from": "ergm"
+  },
+  {
+    "package": "rle",
+    "url": "https://github.com/statnet/rle",
+    "via": ["ergm", "ergm.count", "statnet.common"],
     "branch": "master",
     "from": "ergm"
   },
@@ -190,6 +260,38 @@
   {
     "package": "statnet.common",
     "url": "https://github.com/statnet/statnet.common",
+    "via": ["ergm", "tergm"],
+    "branch": "master",
+    "from": "ergm"
+  },
+  {
+    "package": "statnet.common",
+    "url": "https://github.com/statnet/statnet.common",
+    "via": ["ergm", "tergm", "network"],
+    "from": "ergm"
+  },
+  {
+    "package": "statnet.common",
+    "url": "https://github.com/statnet/statnet.common",
+    "via": ["ergm", "tergm", "networkDynamic", "network"],
+    "from": "ergm"
+  },
+  {
+    "package": "statnet.common",
+    "url": "https://github.com/statnet/statnet.common",
+    "via": ["ergm", "ergm.count", "network"],
+    "from": "ergm"
+  },
+  {
+    "package": "statnet.common",
+    "url": "https://github.com/statnet/statnet.common",
+    "via": ["ergm", "ergm.count"],
+    "branch": "master",
+    "from": "ergm"
+  },
+  {
+    "package": "statnet.common",
+    "url": "https://github.com/statnet/statnet.common",
     "via": ["ergm.ego"],
     "branch": "master",
     "from": "ergm.ego"
@@ -244,5 +346,12 @@
     "url": "https://github.com/statnet/statnet.common",
     "via": ["tergm", "ergm", "network"],
     "from": "tergm"
+  },
+  {
+    "package": "tergm",
+    "url": "https://github.com/statnet/tergm",
+    "via": ["ergm"],
+    "branch": "master",
+    "from": "ergm"
   }
 ]
