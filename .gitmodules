@@ -7,62 +7,77 @@
 	path = EpiModel
 	url = https://github.com/statnet/epimodel
 	shallow = true
+	registered = true
 [submodule "ergm"]
 	path = ergm
 	url = https://github.com/statnet/ergm
 	shallow = true
+	registered = true
 [submodule "ergm.count"]
 	path = ergm.count
 	url = https://github.com/statnet/ergm.count
 	shallow = true
+	registered = true
 [submodule "ergm.ego"]
 	path = ergm.ego
 	url = https://github.com/statnet/ergm.ego
 	shallow = true
+	registered = true
 [submodule "ergm.rank"]
 	path = ergm.rank
 	url = https://github.com/statnet/ergm.rank
 	shallow = true
+	registered = true
 [submodule "ergm.userterms"]
 	path = ergm.userterms
 	url = https://github.com/statnet/ergm.userterms
 	shallow = true
+	registered = true
 [submodule "latentnet"]
 	path = latentnet
 	url = https://github.com/statnet/latentnet
 	shallow = true
+	registered = true
 [submodule "lolog"]
 	path = lolog
 	url = https://github.com/statnet/lolog
 	shallow = true
+	registered = true
 [submodule "ndtv"]
 	path = ndtv
 	url = https://github.com/statnet/ndtv
 	shallow = true
 	subdir = ndtv
+	registered = true
 [submodule "rle"]
 	path = rle
 	url = https://github.com/statnet/rle
 	shallow = true
+	registered = true
 [submodule "statnet"]
 	path = statnet
 	url = https://github.com/statnet/statnet
 	shallow = true
+	registered = true
 [submodule "statnet.common"]
 	path = statnet.common
 	url = https://github.com/statnet/statnet.common
 	shallow = true
+	registered = true
 [submodule "tergm"]
 	path = tergm
 	url = https://github.com/statnet/tergm
 	shallow = true
+	registered = true
 [submodule "network"]
 	path = network
 	url = https://github.com/statnet/network
 	shallow = true
 	branch = master
+	registered = false
 [submodule "networkDynamic"]
 	path = networkDynamic
 	url = https://github.com/statnet/networkDynamic
 	shallow = true
 	branch = master
+	registered = false
