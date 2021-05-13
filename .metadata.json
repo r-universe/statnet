@@ -1,0 +1,54 @@
+[
+  {
+    "package": "EpiModel",
+    "oncran": true
+  },
+  {
+    "package": "ergm",
+    "oncran": true
+  },
+  {
+    "package": "ergm.count",
+    "oncran": true
+  },
+  {
+    "package": "ergm.ego",
+    "oncran": true
+  },
+  {
+    "package": "ergm.rank",
+    "oncran": true
+  },
+  {
+    "package": "ergm.userterms",
+    "oncran": true
+  },
+  {
+    "package": "latentnet",
+    "oncran": true
+  },
+  {
+    "package": "lolog",
+    "oncran": true
+  },
+  {
+    "package": "ndtv",
+    "oncran": true
+  },
+  {
+    "package": "rle",
+    "oncran": true
+  },
+  {
+    "package": "statnet",
+    "oncran": true
+  },
+  {
+    "package": "statnet.common",
+    "oncran": true
+  },
+  {
+    "package": "tergm",
+    "oncran": true
+  }
+]
