@@ -512,13 +512,6 @@
   {
     "package": "rle",
     "url": "https://github.com/statnet/rle",
-    "via": ["statnet.common"],
-    "branch": "master",
-    "from": "statnet.common"
-  },
-  {
-    "package": "rle",
-    "url": "https://github.com/statnet/rle",
     "via": ["tergm", "statnet.common"],
     "branch": "master",
     "from": "tergm"
