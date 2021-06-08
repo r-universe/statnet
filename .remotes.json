@@ -351,32 +351,8 @@
   {
     "package": "statnet.common",
     "url": "https://github.com/statnet/statnet.common",
-    "via": ["ergm", "network"],
-    "from": "ergm"
-  },
-  {
-    "package": "statnet.common",
-    "url": "https://github.com/statnet/statnet.common",
     "via": ["ergm", "tergm"],
     "branch": "master",
-    "from": "ergm"
-  },
-  {
-    "package": "statnet.common",
-    "url": "https://github.com/statnet/statnet.common",
-    "via": ["ergm", "tergm", "network"],
-    "from": "ergm"
-  },
-  {
-    "package": "statnet.common",
-    "url": "https://github.com/statnet/statnet.common",
-    "via": ["ergm", "tergm", "networkDynamic", "network"],
-    "from": "ergm"
-  },
-  {
-    "package": "statnet.common",
-    "url": "https://github.com/statnet/statnet.common",
-    "via": ["ergm", "ergm.count", "network"],
     "from": "ergm"
   },
   {
