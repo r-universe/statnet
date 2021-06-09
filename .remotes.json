@@ -795,12 +795,6 @@
   {
     "package": "statnet.common",
     "url": "https://github.com/statnet/statnet.common",
-    "via": ["ergm.ego", "network"],
-    "from": "ergm.ego"
-  },
-  {
-    "package": "statnet.common",
-    "url": "https://github.com/statnet/statnet.common",
     "via": ["ergm.ego", "ergm"],
     "branch": "master",
     "from": "ergm.ego"
@@ -808,32 +802,8 @@
   {
     "package": "statnet.common",
     "url": "https://github.com/statnet/statnet.common",
-    "via": ["ergm.ego", "ergm", "network"],
-    "from": "ergm.ego"
-  },
-  {
-    "package": "statnet.common",
-    "url": "https://github.com/statnet/statnet.common",
     "via": ["ergm.ego", "ergm", "tergm"],
     "branch": "master",
-    "from": "ergm.ego"
-  },
-  {
-    "package": "statnet.common",
-    "url": "https://github.com/statnet/statnet.common",
-    "via": ["ergm.ego", "ergm", "tergm", "network"],
-    "from": "ergm.ego"
-  },
-  {
-    "package": "statnet.common",
-    "url": "https://github.com/statnet/statnet.common",
-    "via": ["ergm.ego", "ergm", "tergm", "networkDynamic", "network"],
-    "from": "ergm.ego"
-  },
-  {
-    "package": "statnet.common",
-    "url": "https://github.com/statnet/statnet.common",
-    "via": ["ergm.ego", "ergm", "ergm.count", "network"],
     "from": "ergm.ego"
   },
   {
