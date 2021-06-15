@@ -281,13 +281,6 @@
   {
     "package": "network",
     "url": "https://github.com/statnet/network",
-    "via": ["ergm.ego", "ergm"],
-    "branch": "master",
-    "from": "ergm.ego"
-  },
-  {
-    "package": "network",
-    "url": "https://github.com/statnet/network",
     "via": ["ergm.ego", "ergm", "tergm"],
     "branch": "master",
     "from": "ergm.ego"
@@ -463,13 +456,6 @@
   {
     "package": "rle",
     "url": "https://github.com/statnet/rle",
-    "via": ["ergm.ego", "ergm"],
-    "branch": "master",
-    "from": "ergm.ego"
-  },
-  {
-    "package": "rle",
-    "url": "https://github.com/statnet/rle",
     "via": ["ergm.rank", "ergm"],
     "branch": "master",
     "from": "ergm.rank"
@@ -576,13 +562,6 @@
     "package": "statnet.common",
     "url": "https://github.com/statnet/statnet.common",
     "via": ["ergm.ego"],
-    "branch": "master",
-    "from": "ergm.ego"
-  },
-  {
-    "package": "statnet.common",
-    "url": "https://github.com/statnet/statnet.common",
-    "via": ["ergm.ego", "ergm"],
     "branch": "master",
     "from": "ergm.ego"
   },
