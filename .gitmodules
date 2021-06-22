@@ -38,11 +38,6 @@
 	url = https://github.com/statnet/latentnet
 	shallow = true
 	registered = true
-[submodule "lolog"]
-	path = lolog
-	url = https://github.com/statnet/lolog
-	shallow = true
-	registered = true
 [submodule "ndtv"]
 	path = ndtv
 	url = https://github.com/statnet/ndtv

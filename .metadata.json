@@ -28,9 +28,6 @@
     "oncran": true
   },
   {
-    "package": "lolog"
-  },
-  {
     "package": "ndtv",
     "oncran": true
   },
