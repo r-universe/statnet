@@ -8,13 +8,6 @@
   {
     "package": "ergm",
     "url": "https://github.com/statnet/ergm",
-    "via": ["EpiModel"],
-    "branch": "master",
-    "from": "EpiModel"
-  },
-  {
-    "package": "ergm",
-    "url": "https://github.com/statnet/ergm",
     "via": ["EpiModel", "tergm"],
     "branch": "master",
     "from": "EpiModel"
@@ -64,13 +57,6 @@
   {
     "package": "ergm.count",
     "url": "https://github.com/statnet/ergm.count",
-    "via": ["EpiModel", "ergm"],
-    "branch": "master",
-    "from": "EpiModel"
-  },
-  {
-    "package": "ergm.count",
-    "url": "https://github.com/statnet/ergm.count",
     "via": ["EpiModel", "tergm", "ergm"],
     "branch": "master",
     "from": "EpiModel"
@@ -116,41 +102,6 @@
     "via": ["tergm", "ergm"],
     "branch": "master",
     "from": "tergm"
-  },
-  {
-    "package": "network",
-    "url": "https://github.com/statnet/network",
-    "via": ["EpiModel"],
-    "branch": "master",
-    "from": "EpiModel"
-  },
-  {
-    "package": "network",
-    "url": "https://github.com/statnet/network",
-    "via": ["EpiModel", "networkDynamic"],
-    "branch": "master",
-    "from": "EpiModel"
-  },
-  {
-    "package": "network",
-    "url": "https://github.com/statnet/network",
-    "via": ["EpiModel", "ergm", "tergm"],
-    "branch": "master",
-    "from": "EpiModel"
-  },
-  {
-    "package": "network",
-    "url": "https://github.com/statnet/network",
-    "via": ["EpiModel", "ergm", "tergm", "networkDynamic"],
-    "branch": "master",
-    "from": "EpiModel"
-  },
-  {
-    "package": "network",
-    "url": "https://github.com/statnet/network",
-    "via": ["EpiModel", "ergm", "ergm.count"],
-    "branch": "master",
-    "from": "EpiModel"
   },
   {
     "package": "network",
@@ -351,20 +302,6 @@
   {
     "package": "networkDynamic",
     "url": "https://github.com/statnet/networkDynamic",
-    "via": ["EpiModel"],
-    "branch": "master",
-    "from": "EpiModel"
-  },
-  {
-    "package": "networkDynamic",
-    "url": "https://github.com/statnet/networkDynamic",
-    "via": ["EpiModel", "ergm", "tergm"],
-    "branch": "master",
-    "from": "EpiModel"
-  },
-  {
-    "package": "networkDynamic",
-    "url": "https://github.com/statnet/networkDynamic",
     "via": ["EpiModel", "tergm"],
     "branch": "master",
     "from": "EpiModel"
@@ -428,13 +365,6 @@
   {
     "package": "rle",
     "url": "https://github.com/statnet/rle",
-    "via": ["EpiModel"],
-    "branch": "master",
-    "from": "EpiModel"
-  },
-  {
-    "package": "rle",
-    "url": "https://github.com/statnet/rle",
     "via": ["EpiModel", "tergmLite"],
     "branch": "master",
     "from": "EpiModel"
@@ -445,27 +375,6 @@
     "via": ["ergm.ego"],
     "branch": "master",
     "from": "ergm.ego"
-  },
-  {
-    "package": "statnet.common",
-    "url": "https://github.com/statnet/statnet.common",
-    "via": ["EpiModel"],
-    "branch": "master",
-    "from": "EpiModel"
-  },
-  {
-    "package": "statnet.common",
-    "url": "https://github.com/statnet/statnet.common",
-    "via": ["EpiModel", "ergm", "tergm"],
-    "branch": "master",
-    "from": "EpiModel"
-  },
-  {
-    "package": "statnet.common",
-    "url": "https://github.com/statnet/statnet.common",
-    "via": ["EpiModel", "ergm", "ergm.count"],
-    "branch": "master",
-    "from": "EpiModel"
   },
   {
     "package": "statnet.common",
@@ -599,13 +508,6 @@
     "via": ["tergm", "ergm", "ergm.count"],
     "branch": "master",
     "from": "tergm"
-  },
-  {
-    "package": "tergm",
-    "url": "https://github.com/statnet/tergm",
-    "via": ["EpiModel", "ergm"],
-    "branch": "master",
-    "from": "EpiModel"
   },
   {
     "package": "tergm",
