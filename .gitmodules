@@ -81,9 +81,3 @@
 	shallow = true
 	branch = master
 	registered = false
-[submodule "tergmLite"]
-	path = tergmLite
-	url = https://github.com/statnet/tergmLite
-	shallow = true
-	branch = master
-	registered = false

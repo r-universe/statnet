@@ -333,12 +333,5 @@
     "via": ["ergm.rank", "ergm"],
     "branch": "master",
     "from": "ergm.rank"
-  },
-  {
-    "package": "tergmLite",
-    "url": "https://github.com/statnet/tergmLite",
-    "via": ["EpiModel"],
-    "branch": "master",
-    "from": "EpiModel"
   }
 ]
