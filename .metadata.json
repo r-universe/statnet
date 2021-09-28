@@ -50,5 +50,9 @@
   {
     "package": "tergm",
     "oncran": true
+  },
+  {
+    "package": "tsna",
+    "oncran": true
   }
 ]

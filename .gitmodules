@@ -69,6 +69,11 @@
 	url = https://github.com/statnet/tergm
 	shallow = true
 	registered = true
+[submodule "tsna"]
+	path = tsna
+	url = https://github.com/statnet/tsna
+	shallow = true
+	registered = true
 [submodule "egor"]
 	path = egor
 	url = https://github.com/tilltnet/egor
