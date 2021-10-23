@@ -32,9 +32,6 @@
     "oncran": true
   },
   {
-    "package": "ndtv"
-  },
-  {
     "package": "rle",
     "oncran": true
   },
