@@ -1,9 +1,5 @@
 [
   {
-    "package": "EpiModel",
-    "oncran": true
-  },
-  {
     "package": "ergm",
     "oncran": true
   },
