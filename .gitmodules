@@ -23,6 +23,11 @@
 	url = https://github.com/statnet/ergm.rank
 	shallow = true
 	registered = true
+[submodule "ergm.userterms"]
+	path = ergm.userterms
+	url = https://github.com/statnet/ergm.userterms
+	shallow = true
+	registered = true
 [submodule "latentnet"]
 	path = latentnet
 	url = https://github.com/statnet/latentnet
