@@ -274,6 +274,13 @@
   {
     "package": "statnet.common",
     "url": "https://github.com/statnet/statnet.common",
+    "via": ["ergm.ego", "ergm"],
+    "branch": "master",
+    "from": "ergm.ego"
+  },
+  {
+    "package": "statnet.common",
+    "url": "https://github.com/statnet/statnet.common",
     "via": ["ergm.ego", "ergm", "tergm"],
     "branch": "master",
     "from": "ergm.ego"
