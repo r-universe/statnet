@@ -302,6 +302,13 @@
   {
     "package": "statnet.common",
     "url": "https://github.com/statnet/statnet.common",
+    "via": ["ergm.rank", "ergm"],
+    "branch": "master",
+    "from": "ergm.rank"
+  },
+  {
+    "package": "statnet.common",
+    "url": "https://github.com/statnet/statnet.common",
     "via": ["ergm.rank", "ergm", "tergm"],
     "branch": "master",
     "from": "ergm.rank"
