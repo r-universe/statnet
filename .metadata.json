@@ -16,8 +16,7 @@
     "oncran": true
   },
   {
-    "package": "ergm.userterms",
-    "oncran": true
+    "package": "ergm.userterms"
   },
   {
     "package": "latentnet",
