@@ -141,13 +141,6 @@
   {
     "package": "network",
     "url": "https://github.com/statnet/network",
-    "via": ["tergm", "networkDynamic"],
-    "branch": "master",
-    "from": "tergm"
-  },
-  {
-    "package": "network",
-    "url": "https://github.com/statnet/network",
     "via": ["tergm", "ergm", "ergm.count"],
     "branch": "master",
     "from": "tergm"
