@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "ergm.multi",
+    "oncran": true
+  },
+  {
     "package": "ergm.rank",
     "oncran": true
   },
