@@ -38,6 +38,12 @@
 	url = https://github.com/statnet/lolog
 	shallow = true
 	registered = true
+[submodule "ndtv"]
+	path = ndtv
+	url = https://github.com/statnet/ndtv
+	shallow = true
+	subdir = ndtv
+	registered = true
 [submodule "rle"]
 	path = rle
 	url = https://github.com/statnet/rle
