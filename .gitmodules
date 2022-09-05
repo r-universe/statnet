@@ -18,11 +18,6 @@
 	url = https://github.com/statnet/ergm.ego
 	shallow = true
 	registered = true
-[submodule "ergm.multi"]
-	path = ergm.multi
-	url = https://github.com/statnet/ergm.multi
-	shallow = true
-	registered = true
 [submodule "ergm.rank"]
 	path = ergm.rank
 	url = https://github.com/statnet/ergm.rank
