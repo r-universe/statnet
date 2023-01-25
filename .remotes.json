@@ -41,6 +41,13 @@
     "from": "tergm"
   },
   {
+    "package": "ergm",
+    "url": "https://github.com/statnet/ergm",
+    "via": ["tergm", "ergm.multi"],
+    "branch": "master",
+    "from": "tergm"
+  },
+  {
     "package": "ergm.count",
     "url": "https://github.com/statnet/ergm.count",
     "via": ["ergm"],
@@ -72,6 +79,20 @@
     "package": "ergm.count",
     "url": "https://github.com/statnet/ergm.count",
     "via": ["tergm", "ergm"],
+    "branch": "master",
+    "from": "tergm"
+  },
+  {
+    "package": "ergm.count",
+    "url": "https://github.com/statnet/ergm.count",
+    "via": ["tergm", "ergm.multi", "ergm"],
+    "branch": "master",
+    "from": "tergm"
+  },
+  {
+    "package": "ergm.multi",
+    "url": "https://github.com/statnet/ergm.multi",
+    "via": ["tergm"],
     "branch": "master",
     "from": "tergm"
   },
@@ -142,6 +163,20 @@
     "package": "network",
     "url": "https://github.com/statnet/network",
     "via": ["tergm", "ergm", "ergm.count"],
+    "branch": "master",
+    "from": "tergm"
+  },
+  {
+    "package": "network",
+    "url": "https://github.com/statnet/network",
+    "via": ["tergm", "ergm.multi"],
+    "branch": "master",
+    "from": "tergm"
+  },
+  {
+    "package": "network",
+    "url": "https://github.com/statnet/network",
+    "via": ["tergm", "ergm.multi", "ergm", "ergm.count"],
     "branch": "master",
     "from": "tergm"
   },
@@ -268,6 +303,27 @@
     "package": "statnet.common",
     "url": "https://github.com/statnet/statnet.common",
     "via": ["tergm", "ergm", "ergm.count"],
+    "branch": "master",
+    "from": "tergm"
+  },
+  {
+    "package": "statnet.common",
+    "url": "https://github.com/statnet/statnet.common",
+    "via": ["tergm", "ergm.multi"],
+    "branch": "master",
+    "from": "tergm"
+  },
+  {
+    "package": "statnet.common",
+    "url": "https://github.com/statnet/statnet.common",
+    "via": ["tergm", "ergm.multi", "ergm"],
+    "branch": "master",
+    "from": "tergm"
+  },
+  {
+    "package": "statnet.common",
+    "url": "https://github.com/statnet/statnet.common",
+    "via": ["tergm", "ergm.multi", "ergm", "ergm.count"],
     "branch": "master",
     "from": "tergm"
   }
