@@ -1,30 +1,6 @@
 [
   {
-    "package": "statnet",
-    "oncran": true
-  },
-  {
-    "package": "tergm",
-    "oncran": true
-  },
-  {
-    "package": "latentnet",
-    "oncran": true
-  },
-  {
-    "package": "rle",
-    "oncran": true
-  },
-  {
-    "package": "statnet.common",
-    "oncran": true
-  },
-  {
     "package": "ergm",
-    "oncran": true
-  },
-  {
-    "package": "ergm.ego",
     "oncran": true
   },
   {
@@ -32,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "ergm.rank",
+    "package": "ergm.ego",
     "oncran": true
   },
   {
@@ -40,7 +16,15 @@
     "oncran": true
   },
   {
-    "package": "tsna",
+    "package": "ergm.rank",
+    "oncran": true
+  },
+  {
+    "package": "latentnet",
+    "oncran": true
+  },
+  {
+    "package": "lolog",
     "oncran": true
   },
   {
@@ -48,7 +32,23 @@
     "oncran": true
   },
   {
-    "package": "lolog",
+    "package": "rle",
+    "oncran": true
+  },
+  {
+    "package": "statnet",
+    "oncran": true
+  },
+  {
+    "package": "statnet.common",
+    "oncran": true
+  },
+  {
+    "package": "tergm",
+    "oncran": true
+  },
+  {
+    "package": "tsna",
     "oncran": true
   }
 ]
