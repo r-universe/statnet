@@ -28,6 +28,11 @@
 	url = https://github.com/statnet/ergm.rank
 	shallow = true
 	registered = true
+[submodule "ergmgp"]
+	path = ergmgp
+	url = https://github.com/statnet/ergmgp
+	shallow = true
+	registered = true
 [submodule "latentnet"]
 	path = latentnet
 	url = https://github.com/statnet/latentnet
