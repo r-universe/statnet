@@ -1,0 +1,10 @@
+{
+  "id": 39595663,
+  "created_at": "2023-07-13T10:47:13.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["admin", "devtalk", "ergm", "ergm-private", "ergm.bench", "ergm.changestats", "ergm.count", "ergm.count-private", "ergm.ego", "ergm.ego-private", "ergm.multi-private", "ergm.rank", "ergm.rank-private", "ergm.tapered-private", "ergm.terms.contrib", "ergm.tritoggle-private", "ergm.userterms", "ergm.userterms-private", "ergmego-directed", "github_transition", "minimal-mistakes", "ndtv", "network", "network-private", "networkDynamic", "networkDynamic-private", "networkDynamicData-private", "statnet", "statnet-facebook", "statnet-options", "statnet-private", "statnet.common", "statnet.common-private", "statnet.data", "statnet.github.io", "statnet.github.io.archive", "statnet.r-universe.dev", "statnetWeb", "stergm_terms", "tergm", "tergm-private", "tergmLite", "tergmLite-private", "testworkshop-docs-script", "testworkshop-root-make", "workshop-bipartite-ergms", "workshop-ergm", "workshop-ergm-ego", "workshop-ergm-userterms", "workshop-intro-sna-tools", "workshop-ndtv", "workshop-relevent", "workshop-tergm", "workshop-valued"]
+}
