@@ -2,61 +2,61 @@
 	path = .registry
 	url = https://github.com/statnet/statnet.r-universe.dev
 	branch = HEAD
-[submodule "ergm"]
-	path = ergm
-	url = https://github.com/statnet/ergm
-[submodule "statnet.common"]
-	path = statnet.common
-	url = https://github.com/statnet/statnet.common
-[submodule "ergmgp"]
-	path = ergmgp
-	url = https://github.com/statnet/ergmgp
-[submodule "ergm.ego"]
-	path = ergm.ego
-	url = https://github.com/statnet/ergm.ego
-[submodule "tergm"]
-	path = tergm
-	url = https://github.com/statnet/tergm
-[submodule "ergm.multi"]
-	path = ergm.multi
-	url = https://github.com/statnet/ergm.multi
-[submodule "networkDynamic"]
-	path = networkDynamic
-	url = https://github.com/statnet/networkDynamic
-[submodule "network"]
-	path = network
-	url = https://github.com/statnet/network
-[submodule "ndtv"]
-	path = ndtv
-	url = https://github.com/statnet/ndtv
-[submodule "latentnet"]
-	path = latentnet
-	url = https://github.com/statnet/latentnet
-[submodule "ergm.rank"]
-	path = ergm.rank
-	url = https://github.com/statnet/ergm.rank
-[submodule "ergm.count"]
-	path = ergm.count
-	url = https://github.com/statnet/ergm.count
-[submodule "tsna"]
-	path = tsna
-	url = https://github.com/statnet/tsna
-[submodule "statnet"]
-	path = statnet
-	url = https://github.com/statnet/statnet
-[submodule "lolog"]
-	path = lolog
-	url = https://github.com/statnet/lolog
-[submodule "rle"]
-	path = rle
-	url = https://github.com/statnet/rle
-[submodule "statnetWeb"]
-	path = statnetWeb
-	url = https://github.com/statnet/statnetWeb
-[submodule "ergm.userterms"]
-	path = ergm.userterms
-	url = https://github.com/statnet/ergm.userterms
 [submodule "egor"]
 	path = egor
 	url = https://github.com/tilltnet/egor
 	registered = false
+[submodule "ergm"]
+	path = ergm
+	url = https://github.com/statnet/ergm
+[submodule "ergm.count"]
+	path = ergm.count
+	url = https://github.com/statnet/ergm.count
+[submodule "ergm.ego"]
+	path = ergm.ego
+	url = https://github.com/statnet/ergm.ego
+[submodule "ergm.multi"]
+	path = ergm.multi
+	url = https://github.com/statnet/ergm.multi
+[submodule "ergm.rank"]
+	path = ergm.rank
+	url = https://github.com/statnet/ergm.rank
+[submodule "ergm.userterms"]
+	path = ergm.userterms
+	url = https://github.com/statnet/ergm.userterms
+[submodule "ergmgp"]
+	path = ergmgp
+	url = https://github.com/statnet/ergmgp
+[submodule "latentnet"]
+	path = latentnet
+	url = https://github.com/statnet/latentnet
+[submodule "lolog"]
+	path = lolog
+	url = https://github.com/statnet/lolog
+[submodule "ndtv"]
+	path = ndtv
+	url = https://github.com/statnet/ndtv
+[submodule "network"]
+	path = network
+	url = https://github.com/statnet/network
+[submodule "networkDynamic"]
+	path = networkDynamic
+	url = https://github.com/statnet/networkDynamic
+[submodule "rle"]
+	path = rle
+	url = https://github.com/statnet/rle
+[submodule "statnet"]
+	path = statnet
+	url = https://github.com/statnet/statnet
+[submodule "statnet.common"]
+	path = statnet.common
+	url = https://github.com/statnet/statnet.common
+[submodule "statnetWeb"]
+	path = statnetWeb
+	url = https://github.com/statnet/statnetWeb
+[submodule "tergm"]
+	path = tergm
+	url = https://github.com/statnet/tergm
+[submodule "tsna"]
+	path = tsna
+	url = https://github.com/statnet/tsna
