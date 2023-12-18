@@ -36,6 +36,7 @@
 [submodule "ndtv"]
 	path = ndtv
 	url = https://github.com/statnet/ndtv
+	subdir = ndtv
 [submodule "network"]
 	path = network
 	url = https://github.com/statnet/network
