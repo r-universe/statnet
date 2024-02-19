@@ -155,13 +155,6 @@
   {
     "package": "statnet.common",
     "url": "https://github.com/statnet/statnet.common",
-    "via": ["ergm.count", "ergm"],
-    "branch": "master",
-    "from": "ergm.count"
-  },
-  {
-    "package": "statnet.common",
-    "url": "https://github.com/statnet/statnet.common",
     "via": ["ergm.ego"],
     "branch": "master",
     "from": "ergm.ego"
