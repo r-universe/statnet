@@ -120,13 +120,6 @@
   {
     "package": "network",
     "url": "https://github.com/statnet/network",
-    "via": ["ergm.rank", "ergm", "ergm.count"],
-    "branch": "master",
-    "from": "ergm.rank"
-  },
-  {
-    "package": "network",
-    "url": "https://github.com/statnet/network",
     "via": ["tergm"],
     "branch": "master",
     "from": "tergm"
@@ -184,20 +177,6 @@
     "package": "statnet.common",
     "url": "https://github.com/statnet/statnet.common",
     "via": ["ergm.rank"],
-    "branch": "master",
-    "from": "ergm.rank"
-  },
-  {
-    "package": "statnet.common",
-    "url": "https://github.com/statnet/statnet.common",
-    "via": ["ergm.rank", "ergm"],
-    "branch": "master",
-    "from": "ergm.rank"
-  },
-  {
-    "package": "statnet.common",
-    "url": "https://github.com/statnet/statnet.common",
-    "via": ["ergm.rank", "ergm", "ergm.count"],
     "branch": "master",
     "from": "ergm.rank"
   },
