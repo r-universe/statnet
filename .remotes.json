@@ -132,6 +132,13 @@
     "from": "tergm"
   },
   {
+    "package": "networkLite",
+    "url": "https://github.com/EpiModel/networkLite",
+    "via": ["ergm.multi"],
+    "branch": "main",
+    "from": "ergm.multi"
+  },
+  {
     "package": "rle",
     "url": "https://github.com/statnet/rle",
     "via": ["ergm.ego"],
