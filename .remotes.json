@@ -155,6 +155,13 @@
   {
     "package": "roxygen2",
     "url": "https://github.com/krivit/roxygen2",
+    "via": ["ergm", "statnet.common"],
+    "branch": "anchor-sometimes",
+    "from": "ergm"
+  },
+  {
+    "package": "roxygen2",
+    "url": "https://github.com/krivit/roxygen2",
     "via": ["statnet.common"],
     "branch": "anchor-sometimes",
     "from": "statnet.common"
