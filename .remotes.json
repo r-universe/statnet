@@ -195,6 +195,13 @@
     "from": "statnet.common"
   },
   {
+    "package": "roxygen2",
+    "url": "https://github.com/krivit/roxygen2",
+    "via": ["tergm", "statnet.common"],
+    "branch": "anchor-sometimes",
+    "from": "tergm"
+  },
+  {
     "package": "statnet.common",
     "url": "https://github.com/statnet/statnet.common",
     "via": ["ergm"],
