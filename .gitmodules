@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/statnet/statnet.r-universe.dev
 	branch = HEAD
-[submodule "egor"]
-	path = egor
-	url = https://github.com/tilltnet/egor
-	registered = false
 [submodule "ergm"]
 	path = ergm
 	url = https://github.com/statnet/ergm
@@ -43,19 +39,9 @@
 [submodule "networkDynamic"]
 	path = networkDynamic
 	url = https://github.com/statnet/networkDynamic
-[submodule "networkLite"]
-	path = networkLite
-	url = https://github.com/EpiModel/networkLite
-	branch = main
-	registered = false
 [submodule "rle"]
 	path = rle
 	url = https://github.com/statnet/rle
-[submodule "roxygen2"]
-	path = roxygen2
-	url = https://github.com/krivit/roxygen2
-	branch = anchor-sometimes
-	registered = false
 [submodule "statnet"]
 	path = statnet
 	url = https://github.com/statnet/statnet
